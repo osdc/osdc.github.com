@@ -28,3 +28,8 @@ background:url('fond.jpg');
     text-decoration:none;
     color:inherit;
 }
+
+#info a:hover{
+    border-bottom:3px #FF0080 solid;
+    padding-bottom:10px;
+}
