@@ -11,3 +11,20 @@ background:url('fond.jpg');
     height:auto;
     margin-left:30%;
 }
+
+#info{
+    text-align:center;
+    color:#E6E6E6;
+    font-size:20px;
+    letter-spacing:1px;
+    font-family:sans-serif;
+    width:auto;
+    margin-left:20%;
+    margin-right:25%;
+    margin-top:-20px;
+}
+
+#info a{
+    text-decoration:none;
+    color:inherit;
+}
