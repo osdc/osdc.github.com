@@ -1,6 +1,13 @@
 
 
 body{
-background:url('fond.jpg')
-;
+background:url('fond.jpg');
+
+}
+
+
+#logo{
+    width:auto;
+    height:auto;
+    margin-left:30%;
 }
